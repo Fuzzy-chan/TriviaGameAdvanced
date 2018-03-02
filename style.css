@@ -1,0 +1,14 @@
+.answer:hover{
+    border: 2px green solid;
+    background: cadetblue;
+}
+.answer{
+    font-size: 24px;
+    width: 400px;
+    margin: auto;
+}
+
+.images{
+    width: 300px;
+    height: 200px;
+}
