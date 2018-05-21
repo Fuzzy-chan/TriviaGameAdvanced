@@ -2,7 +2,7 @@
     border: 2px green solid;
     background: cadetblue;
 }
-.answer{
+.answers{
     font-size: 24px;
     width: 400px;
     margin: auto;
@@ -11,4 +11,10 @@
 .images{
     width: 300px;
     height: 200px;
+}
+
+body{
+    background-image: url(https://media.gettyimages.com/photos/blue-gradient-blurred-abstract-background-picture-id523159398?b=1&k=6&m=523159398&s=612x612&w=0&h=5gtEdQ9Di-MZ_VVtZ33W1cY9V0Zt93EBsVY48a3IAms=);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
