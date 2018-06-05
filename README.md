@@ -8,4 +8,4 @@ The screen will switch when an answer is selected or when the timer runs out and
 
 After all the questions have been answered, there will be a button to reset(not reload! Why? Because that's why) the page. Additionally, on that page it will show the stats of the answers.
 
-Test Branch: Working on filling questions from an object!
+https://fuzzy-chan.github.io/TriviaGameAdvanced/
